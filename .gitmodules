@@ -1,0 +1,3 @@
+[submodule "get_data_catarse"]
+	path = get_data_catarse
+	url = https://github.com/Jojojmo/get_data_catarse.git
