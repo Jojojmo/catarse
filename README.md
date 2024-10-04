@@ -52,6 +52,10 @@ Para utilizar este repositório, recomenda-se criar um ambiente virtual ou utili
    pip install -r requirements.txt
    ```
 
+### **Atenção**:
+
+Antes de rodar os notebooks, utilize o repositório `get_data_catarse` para gerar o Dataset, depois disso, mova o arquivo `index_project_details.pkl` para a pasta [database](catarse\databases).
+
 # Índice
 
 - [Descrição do Projeto](#descrição-do-projeto)
